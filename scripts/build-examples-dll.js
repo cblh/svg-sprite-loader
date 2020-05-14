@@ -1,4 +1,4 @@
-/* eslint-disable global-require,import/no-dynamic-require,import/no-extraneous-dependencies,no-console */
+/* eslint-disable global-require,import/no-dynamic-require,import/no-unresolved,no-console, */
 const path = require('path');
 const glob = require('glob');
 const webpack = require('webpack');
